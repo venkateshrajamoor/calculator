@@ -34,7 +34,7 @@
 
 📦 How to Run Locally
 
-        git clone https://github.com/your-username/calculator.git
+        git clone https://github.com/venkateshrajamoor/calculator
         cd calculator
         open index.html in browser
 
