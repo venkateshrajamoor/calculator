@@ -31,6 +31,14 @@
       Press C (Clear) to reset the calculator.
       
       You can also use your keyboard to type numbers and operations.
+
+📦 How to Run Locally
+
+        git clone https://github.com/your-username/calculator.git
+        cd calculator
+        open index.html in browser
+
+        
 📚 Learning Outcomes
       DOM manipulation
       
