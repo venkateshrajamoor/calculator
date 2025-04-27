@@ -19,7 +19,7 @@
       JavaScript (ES6+) — functionality
 
 🚀 Demo
-    Check out the live project here:// calculator-seven-flame-89.vercel.app
+    Check out the live project here:https://calculator-seven-flame-89.vercel.app/
 
 📋 How to Use
       Click on the numerical buttons to input values.
