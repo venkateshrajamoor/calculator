@@ -1,3 +1,5 @@
+🧮 Calculator
+        A clean and functional Calculator App built with HTML, CSS, and JavaScript.
 ✨ Features
         Perform basic arithmetic operations: +, -, ×, /
         
