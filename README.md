@@ -51,4 +51,4 @@
       Responsive web development
 
 🧑‍💻 Author
-This project was deveeloped and submitted to UnifiedMentor.
+      This project was developed and submitted as part of my internship with UnifiedMentor.
